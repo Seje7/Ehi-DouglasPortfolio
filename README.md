@@ -18,6 +18,7 @@ Bachelors of Computer Science Loyola University Maryland 2026
 ### Projects
 
 #### Project 1 Title
+![Sales_Inventory](assests/week2/Screenshot 2026-04-17 122919.png)
  - Project 1 Summary
  - [insert project 1 screenshot here]
  - Project 1 Report
