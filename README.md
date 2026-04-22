@@ -4,8 +4,6 @@
 ## Portfolio
 Contact Info: 443-216-1290
 
-![My profile photo](assets/img/headshot_circle.png)
-
 ### About Me 
 Hello! I am an experienced Computer Science Student and IT adminstartor assistant with over 3 years of proven expertise in Computer Science and Specialization in Software Engineering. 
  
