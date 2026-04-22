@@ -59,7 +59,8 @@ Bachelors of Computer Science Loyola University Maryland 2026
     *ATM Machine Project*
 
  - Project Link
-    [MathLab](https://github.com/Seje7/Ehi-DouglasPortfolio/tree/main/MatlabProject)
+    [MathLabGraph](MatlabProject/Assessment14_OseEhiDouglas.m)
+    [MathLabATM](MatlabProject/Assesment13_EhiDouglas.m)
 
 ***
 #### Personality Quiz
