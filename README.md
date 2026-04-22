@@ -2,7 +2,7 @@
 # Oselunosen Ehi-Douglas
 
 ## Portfolio
-Contact Info: 443 216 1290
+Contact Info: 443-216-1290
 
 ![My profile photo](assets/img/headshot_circle.png)
 
